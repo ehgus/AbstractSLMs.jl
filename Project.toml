@@ -1,0 +1,4 @@
+name = "AbstractSLMs"
+uuid = "1d11fc5b-2b46-46c1-ae53-673336a1156a"
+authors = ["Dohyeon Lee <dleh428@kaist.ac.kr>"]
+version = "0.1.0"
