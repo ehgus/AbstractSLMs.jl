@@ -1,4 +1,4 @@
-# AbstractSLMs
+# AbstractSLMs.jl
 
 A general framework for Spatial light modulators (SLMs) in Julia.
 
